@@ -31,3 +31,7 @@ int main() {
 }
 
 // Implement the Volume() function here
+int voiume(int height,int width,int length)
+{
+  return height=width=length;
+}
